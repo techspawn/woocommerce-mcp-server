@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/techspawn-woocommerce-mcp-server)
+
 # WooCommerce MCP Server
 
 A Model Context Protocol (MCP) server for WooCommerce integration, compatible with Windows, macOS, and Linux.
