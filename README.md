@@ -9,7 +9,7 @@ A Model Context Protocol (MCP) server for WooCommerce integration, compatible wi
 This MCP server enables interaction with WooCommerce stores through the WordPress REST API. It provides comprehensive tools for managing all aspects of products, orders, customers, shipping, taxes, discounts, and store configuration using JSON-RPC 2.0 protocol.
 
 
-## 🚀 Related Project
+### Related Project
 
 **Showcase your WooCommerce store to 800+ million ChatGPT users!** Check out [WooCommerce ChatGPT App](https://github.com/techspawn/woocommerce-chatgpt-app) - A visual shopping assistant built using MCP and ChatGPT SDK with beautiful UI displaying products, images, prices, and descriptions. Browse, search, filter, and seamlessly navigate to your store - all within ChatGPT. 
 
